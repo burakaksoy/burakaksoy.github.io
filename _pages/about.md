@@ -31,9 +31,7 @@ Avoidance for Autonomous Vehicles](https://fens.sabanciuniv.edu/sites/fens.saban
 # Teaching 
 ### Teaching Assistant at RPI
 - ECSE 6470: Robotics I (Fall 2021, Fall 2019)
-
 - ENGR 2350: Embedded Control (Spring 2019, Fall 2018)
-
 - ECSE 2010: Electric Circuits (Spring 2019)
 ### Learning Assistant at Sabanci University
 - MATH 101: Calculus I (Fall 2016)
