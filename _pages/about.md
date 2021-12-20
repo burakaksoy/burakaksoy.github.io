@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a PhD student at Depaarment of Electrical, Computer ans Systems Engineering (ECSE), Rensselaer Polytechnic Institute ([RPI](https://www.ecse.rpi.edu/)), working under the supervision of [Prof. John T. Wen](https://john-wen.com/). My research area is robotics, mainly focusing on the control of multiple mobile robot manipulators developed for domestic assistive tasks with human colloboration. 
+
+Along my PhD journey, I also take part in several granted research projects in which I work with vast majority of different types of industrial, colloborative and mobile robots. 
+
+Before joining RPI, I received my Bachelor's degrees from [Mechatronics Engineering](https://me.sabanciuniv.edu/) with a double major in [Computer Science and Engineering](https://cs.sabanciuniv.edu/) from Sabanci University, Turkey in 2018.
+
+# Education
+- Ph.D. in Computer and Systems Engineering, Rensselaer Polytechnic Institute, 2023 (expected)
+- B.Sc. in Computer Science and Engineering, Sabanci University, 2018
+- B.Sc. in Mechatronics Engineering, Sabanci University, 2018
+
+# Research Projects
+- Safe Robotic Handling of Energetic Materials
+- [Swarm Robotics for Large Structure Manufacturing](https://www.john-wen.com/research/grants/swarm-robotics-large-structure-manufacturing)
+- [Open Source Teach Pendant Programming Environment](https://www.john-wen.com/research/grants/open-source-teach-pendant-programming-environment)
+- [Robot Assistance with Activities of Daily Living for Persons](https://www.john-wen.com/research/grants/robot-assistance-activities-daily-living-persons-c4-c7-spinal-cord-injury)
+- [Vision Based Obstacle Detection and
+Avoidance for Autonomous Vehicles](https://fens.sabanciuniv.edu/sites/fens.sabanciuniv.edu/files/2021-07/ford-otosan-poster_rev.pdf)
+- [CAESAR: Cellularly-Accessible, Expressive, Semi-Autonomous Robot](https://engineering.nyu.edu/news/hail-caesar)
+
+# Teaching 
+### Teaching Assistant at RPI
+- ECSE 6470: Robotics I (Fall 2021, Fall 2019)
+
+- ENGR 2350: Embedded Control (Spring 2019, Fall 2018)
+
+- ECSE 2010: Electric Circuits (Spring 2019)
+### Learning Assistant at Sabanci University
+- MATH 101: Calculus I (Fall 2016)
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -19,11 +49,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
@@ -47,4 +77,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
